@@ -15,10 +15,9 @@
   - `sudo apt-get install zsh` 
 - [Install Cmder](https://github.com/cmderdev/cmder)
 - [Install Node](http://nodejs.org/)
-  - ```
+  - ```bash
       curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-      sudo apt-get install -y nodejs
-    ```
+      sudo apt-get install -y nodejs```
 - [Install Git](https://git-scm.com/download/linux)
   - ```sudo apt-get install git```
 - [Install Firefox DE](https://www.mozilla.org/en-US/firefox/developer/)
