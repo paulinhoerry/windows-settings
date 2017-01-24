@@ -14,6 +14,7 @@
 - Change bash to zsh
   - `sudo apt-get install zsh` 
 - [Install Cmder](https://github.com/cmderdev/cmder)
+- [Install GNUWIN](http://gnuwin32.sourceforge.net/)
 - [Install Node](http://nodejs.org/)
   - ```bash
       curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
